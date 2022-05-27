@@ -1,11 +1,16 @@
 _repo: Salt-mines-and-castles-The-discovery-and-restitution-of-looted-European-art_68150
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68150-h/images/cover.jpg
 creator:
   author:
     agent_name: Howe, Thomas Carr
     gutenberg_agent_id: '54631'
     url: http://www.gutenberg.org/2009/agents/54631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68150#Salt-mines-and-castles-The-discovery-and-restitution-of-looted-European-art
 gutenberg_issued: '2022-05-22'
 identifiers:
   gutenberg: '68150'
